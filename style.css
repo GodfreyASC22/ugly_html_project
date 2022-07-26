@@ -1,0 +1,32 @@
+h1{
+    text-align:center;
+    color:gold;
+    background-color:steelblue;
+}
+
+h2{
+    color:aliceblue;
+}
+
+body{
+    background-color:black;
+}
+
+.class{
+    color:aliceblue;
+}
+li{
+    color: aliceblue;
+}
+
+p{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color:aliceblue;
+}
+
+img{
+    width: 150px;
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
